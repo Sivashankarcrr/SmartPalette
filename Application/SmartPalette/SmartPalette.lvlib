@@ -8,14 +8,27 @@
 
 </Property>
 	<Item Name="Controls" Type="Folder">
+		<Item Name="Data To Predictor.ctl" Type="VI" URL="../Controls/Data To Predictor.ctl"/>
 		<Item Name="DataCluster.ctl" Type="VI" URL="../Controls/DataCluster.ctl"/>
+		<Item Name="GObjectDetail.ctl" Type="VI" URL="../Controls/GObjectDetail.ctl"/>
+		<Item Name="MonitoringVIDataCluster.ctl" Type="VI" URL="../Controls/MonitoringVIDataCluster.ctl"/>
 		<Item Name="QueueDatatype.ctl" Type="VI" URL="../Controls/QueueDatatype.ctl"/>
+		<Item Name="VI - DataStorage.ctl" Type="VI" URL="../Controls/VI - DataStorage.ctl"/>
 		<Item Name="VI Information.ctl" Type="VI" URL="../Controls/VI Information.ctl"/>
 	</Item>
 	<Item Name="SubVI" Type="Folder">
+		<Item Name="Add To Fixed Size Array.vi" Type="VI" URL="../SubVI/Add To Fixed Size Array.vi"/>
 		<Item Name="Check VI condition.vi" Type="VI" URL="../SubVI/Check VI condition.vi"/>
+		<Item Name="Get Node Details.vi" Type="VI" URL="../SubVI/Get Node Details.vi"/>
+		<Item Name="GetGObjectDetails.vi" Type="VI" URL="../SubVI/GetGObjectDetails.vi"/>
+		<Item Name="MonitoringVI.vi" Type="VI" URL="../SubVI/MonitoringVI.vi"/>
 		<Item Name="MoveWindow.vi" Type="VI" URL="../SubVI/MoveWindow.vi"/>
+		<Item Name="Palette UserEvents.vi" Type="VI" URL="../SubVI/Palette UserEvents.vi"/>
+		<Item Name="Parse Searched Data.vi" Type="VI" URL="../SubVI/Parse Searched Data.vi"/>
 		<Item Name="Read Settings.vi" Type="VI" URL="../SubVI/Read Settings.vi"/>
+		<Item Name="Read VI For Changes.vi" Type="VI" URL="../SubVI/Read VI For Changes.vi"/>
+		<Item Name="Recent VIs - DataStorage.vi" Type="VI" URL="../SubVI/Recent VIs - DataStorage.vi"/>
+		<Item Name="Send Data To Predictor.vi" Type="VI" URL="../SubVI/Send Data To Predictor.vi"/>
 	</Item>
 	<Item Name="Palette.vi" Type="VI" URL="../Palette.vi"/>
 </Library>
