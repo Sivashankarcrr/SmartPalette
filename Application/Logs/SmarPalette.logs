@@ -137,3 +137,237 @@ Date&Time    Message     Code     Source
 
 -------------------------------------------------------------------------------------------
 Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/5/2016&11:47 PM      Error      56      TCP Wait On Listener in TCP Listen.vi:7210001->TCPCommunication.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Write in TCPCommunication.vi->SmartPalette.lvlib:Send Data To Predictor.vi->SmartPalette.lvlib:MonitoringVI.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Write in TCPCommunication.vi->SmartPalette.lvlib:Send Data To Predictor.vi->SmartPalette.lvlib:MonitoringVI.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:47 PM      Error      1      TCP Read in TCPCommunication.vi->SmartPalette.lvlib:Read Data From Predictor.vi->SmartPalette.lvlib:Palette.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/5/2016&11:57 PM      Error      56      TCP Wait On Listener in TCP Listen.vi:7210001->TCPCommunication.vi->SmartPalette.lvlib:Palette.vi
+3/5/2016&11:57 PM      Error      1      TCP Write in TCPCommunication.vi->SmartPalette.lvlib:Send Data To Predictor.vi->SmartPalette.lvlib:MonitoringVI.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/5/2016&11:58 PM      Error      1      TCP Write in TCPCommunication.vi->SmartPalette.lvlib:Send Data To Predictor.vi->SmartPalette.lvlib:MonitoringVI.vi
+3/5/2016&11:59 PM      Error      1      TCP Write in TCPCommunication.vi->SmartPalette.lvlib:Send Data To Predictor.vi->SmartPalette.lvlib:MonitoringVI.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/6/2016&12:17 AM      Error      1      TCP Write in TCPCommunication.vi->SmartPalette.lvlib:Send Data To Predictor.vi->SmartPalette.lvlib:MonitoringVI.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/6/2016&12:22 AM      Error      1004      Open VI Reference in SmartPalette.lvlib:MonitoringVI.vi<APPEND>
+To load a VI into memory with the Open VI Reference function, a path must be wired for the VI Path input.
+
+VI Name: <b>QuickDrop Launch Window.vi</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/6/2016&12:45 AM      Error      1      TCP Write in TCPCommunication.vi->SmartPalette.lvlib:Send Data To Predictor.vi->SmartPalette.lvlib:MonitoringVI.vi
+3/6/2016&12:45 AM      Error      1      TCP Write in TCPCommunication.vi->SmartPalette.lvlib:Send Data To Predictor.vi->SmartPalette.lvlib:MonitoringVI.vi
+3/6/2016&12:45 AM      Error      1004      Open VI Reference in SmartPalette.lvlib:MonitoringVI.vi<APPEND>
+To load a VI into memory with the Open VI Reference function, a path must be wired for the VI Path input.
+
+VI Name: <b>QuickDrop Launch Window.vi</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/6/2016&12:49 AM      Error      1      TCP Write in TCPCommunication.vi->SmartPalette.lvlib:Send Data To Predictor.vi->SmartPalette.lvlib:MonitoringVI.vi
+3/6/2016&12:50 AM      Error      1      TCP Write in TCPCommunication.vi->SmartPalette.lvlib:Send Data To Predictor.vi->SmartPalette.lvlib:MonitoringVI.vi
+3/6/2016&12:51 AM      Error      1004      Open VI Reference in SmartPalette.lvlib:MonitoringVI.vi<APPEND>
+To load a VI into memory with the Open VI Reference function, a path must be wired for the VI Path input.
+
+VI Name: <b>QuickDrop Launch Window.vi</b>
+3/6/2016&12:51 AM      Error      1      TCP Write in TCPCommunication.vi->SmartPalette.lvlib:Send Data To Predictor.vi->SmartPalette.lvlib:MonitoringVI.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source

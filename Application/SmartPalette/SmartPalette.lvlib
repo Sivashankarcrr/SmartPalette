@@ -23,6 +23,7 @@
 		<Item Name="Check VI condition.vi" Type="VI" URL="../SubVI/Check VI condition.vi"/>
 		<Item Name="Convert To Palette Data.vi" Type="VI" URL="../SubVI/Convert To Palette Data.vi"/>
 		<Item Name="Draw Palette.vi" Type="VI" URL="../SubVI/Draw Palette.vi"/>
+		<Item Name="Find Rows and Columns to draw.vi" Type="VI" URL="../SubVI/Find Rows and Columns to draw.vi"/>
 		<Item Name="Form Coordinates.vi" Type="VI" URL="../SubVI/Form Coordinates.vi"/>
 		<Item Name="Get Node Details.vi" Type="VI" URL="../SubVI/Get Node Details.vi"/>
 		<Item Name="GetGObjectDetails.vi" Type="VI" URL="../SubVI/GetGObjectDetails.vi"/>
