@@ -14,6 +14,7 @@
 		<Item Name="MonitoringVIDataCluster.ctl" Type="VI" URL="../Controls/MonitoringVIDataCluster.ctl"/>
 		<Item Name="Palette Data.ctl" Type="VI" URL="../Controls/Palette Data.ctl"/>
 		<Item Name="QueueDatatype.ctl" Type="VI" URL="../Controls/QueueDatatype.ctl"/>
+		<Item Name="ReadType.ctl" Type="VI" URL="../Controls/ReadType.ctl"/>
 		<Item Name="VI - DataStorage.ctl" Type="VI" URL="../Controls/VI - DataStorage.ctl"/>
 		<Item Name="VI Information.ctl" Type="VI" URL="../Controls/VI Information.ctl"/>
 	</Item>
@@ -26,6 +27,7 @@
 		<Item Name="Find Rows and Columns to draw.vi" Type="VI" URL="../SubVI/Find Rows and Columns to draw.vi"/>
 		<Item Name="Form Coordinates.vi" Type="VI" URL="../SubVI/Form Coordinates.vi"/>
 		<Item Name="Get Node Details.vi" Type="VI" URL="../SubVI/Get Node Details.vi"/>
+		<Item Name="Get Selected Nodes.vi" Type="VI" URL="../SubVI/Get Selected Nodes.vi"/>
 		<Item Name="GetGObjectDetails.vi" Type="VI" URL="../SubVI/GetGObjectDetails.vi"/>
 		<Item Name="MonitoringVI.vi" Type="VI" URL="../SubVI/MonitoringVI.vi"/>
 		<Item Name="MoveWindow.vi" Type="VI" URL="../SubVI/MoveWindow.vi"/>
@@ -35,6 +37,7 @@
 		<Item Name="Read Data From Predictor.vi" Type="VI" URL="../SubVI/Read Data From Predictor.vi"/>
 		<Item Name="Read Settings.vi" Type="VI" URL="../SubVI/Read Settings.vi"/>
 		<Item Name="Read VI For Changes.vi" Type="VI" URL="../SubVI/Read VI For Changes.vi"/>
+		<Item Name="ReadTypeSelector.vi" Type="VI" URL="../SubVI/ReadTypeSelector.vi"/>
 		<Item Name="Recent VIs - DataStorage.vi" Type="VI" URL="../SubVI/Recent VIs - DataStorage.vi"/>
 		<Item Name="Rectangle Coordinates.vi" Type="VI" URL="../SubVI/Rectangle Coordinates.vi"/>
 		<Item Name="Send Data To Predictor.vi" Type="VI" URL="../SubVI/Send Data To Predictor.vi"/>
