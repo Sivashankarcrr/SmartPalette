@@ -1,1 +1,0 @@
-run the python exe under /dist/clientforlabview.exe after running the LabVIEW application
