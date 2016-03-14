@@ -28,7 +28,6 @@
 				</Item>
 			</Item>
 		</Item>
-		<Item Name="Control 2.ctl" Type="VI" URL="../../../../../../Test/UI test/Control 2.ctl"/>
 		<Item Name="SmartPalette.lvlib" Type="Library" URL="../SmartPalette.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -76,6 +75,8 @@
 				<Item Name="LVPoint32TypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPoint32TypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="mouseAcquire.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/inputDevices.llb/mouseAcquire.vi"/>
+				<Item Name="NewVIObject_LVRelativeDirectionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/_script/New VI Object TypeDefs/NewVIObject_LVRelativeDirectionTypeDef.ctl"/>
+				<Item Name="NewVIObject_LVRelativePositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/_script/New VI Object TypeDefs/NewVIObject_LVRelativePositionTypeDef.ctl"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
@@ -97,10 +98,30 @@
 				<Item Name="TRef Traverse.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef Traverse.vi"/>
 				<Item Name="TRef TravTarget.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/traverseref.llb/TRef TravTarget.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
+				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 				<Item Name="VI Scripting - Traverse.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/traverseref.llb/VI Scripting - Traverse.lvlib"/>
+				<Item Name="VIAnUtil Check Type If ErrClust.vi" Type="VI" URL="/&lt;vilib&gt;/addons/analyzer/_analyzerutils.llb/VIAnUtil Check Type If ErrClust.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="AddNextNode.vi" Type="VI" URL="../../Usables/Create Next Node/AddNextNode.vi"/>
+			<Item Name="Available Non-Node.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Available Non-Node.ctl"/>
+			<Item Name="Change Tunnel Modes to Fix Wires.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Change Tunnel Modes to Fix Wires.vi"/>
+			<Item Name="Connect Valid Terminals.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Connect Valid Terminals.vi"/>
+			<Item Name="Connector Pane Position.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Connector Pane Position.ctl"/>
+			<Item Name="Create New Node.vi" Type="VI" URL="../../Usables/Create Next Node/SubVIs/Create New Node.vi"/>
+			<Item Name="Find Top and Error Terminals.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Find Top and Error Terminals.vi"/>
+			<Item Name="Get Wirable Objects from Selection.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Get Wirable Objects from Selection.vi"/>
+			<Item Name="Group Selection List By Row.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Group Selection List By Row.vi"/>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
+			<Item Name="Match Relaxed Data Type.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Match Relaxed Data Type.vi"/>
+			<Item Name="Match Source and Sink Terminals.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Match Source and Sink Terminals.vi"/>
+			<Item Name="Node Terminal Info.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Node Terminal Info.ctl"/>
+			<Item Name="Prepare to Wire Two Nodes.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Prepare to Wire Two Nodes.vi"/>
+			<Item Name="Sort Node Terminals.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Sort Node Terminals.vi"/>
+			<Item Name="Sort Unwired Terminals.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Sort Unwired Terminals.vi"/>
+			<Item Name="What to Wire.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/What to Wire.ctl"/>
+			<Item Name="Wire Nodes Together.vi" Type="VI" URL="../../Usables/Create Next Node/SubVIs/Wire Nodes Together.vi"/>
+			<Item Name="Wire Non-Nodes to Nodes.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Wire Non-Nodes to Nodes.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

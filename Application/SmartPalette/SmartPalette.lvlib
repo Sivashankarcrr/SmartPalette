@@ -29,6 +29,8 @@
 		<Item Name="Get Node Details.vi" Type="VI" URL="../SubVI/Get Node Details.vi"/>
 		<Item Name="Get Selected Nodes.vi" Type="VI" URL="../SubVI/Get Selected Nodes.vi"/>
 		<Item Name="GetGObjectDetails.vi" Type="VI" URL="../SubVI/GetGObjectDetails.vi"/>
+		<Item Name="LastDataSent_LV2.vi" Type="VI" URL="../SubVI/LastDataSent_LV2.vi"/>
+		<Item Name="Make A selection of object.vi" Type="VI" URL="../SubVI/Make A selection of object.vi"/>
 		<Item Name="MonitoringVI.vi" Type="VI" URL="../SubVI/MonitoringVI.vi"/>
 		<Item Name="MoveWindow.vi" Type="VI" URL="../SubVI/MoveWindow.vi"/>
 		<Item Name="Palette Highlight.vi" Type="VI" URL="../SubVI/Palette Highlight.vi"/>
@@ -40,6 +42,7 @@
 		<Item Name="ReadTypeSelector.vi" Type="VI" URL="../SubVI/ReadTypeSelector.vi"/>
 		<Item Name="Recent VIs - DataStorage.vi" Type="VI" URL="../SubVI/Recent VIs - DataStorage.vi"/>
 		<Item Name="Rectangle Coordinates.vi" Type="VI" URL="../SubVI/Rectangle Coordinates.vi"/>
+		<Item Name="ScrollDataChange.vi" Type="VI" URL="../SubVI/ScrollDataChange.vi"/>
 		<Item Name="Send Data To Predictor.vi" Type="VI" URL="../SubVI/Send Data To Predictor.vi"/>
 	</Item>
 	<Item Name="Palette.vi" Type="VI" URL="../Palette.vi"/>
