@@ -4715,3 +4715,276 @@ Date&Time    Message     Code     Source
 3/14/2016&9:09 PM      Error      1059      New VI Object in Create New Node.vi->AddNextNode.vi->SmartPalette.lvlib:Palette.vi
 3/14/2016&9:09 PM      Error      1059      New VI Object in Create New Node.vi->AddNextNode.vi->SmartPalette.lvlib:Palette.vi
 3/14/2016&9:09 PM      Error      1059      New VI Object in Create New Node.vi->AddNextNode.vi->SmartPalette.lvlib:Palette.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/14/2016&9:13 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/14/2016&9:17 PM      Error      1059      New VI Object in Create New Node.vi->AddNextNode.vi->SmartPalette.lvlib:Palette.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/14/2016&9:19 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&10:42 AM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&10:45 AM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&10:49 AM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&10:52 AM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&11:05 AM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&11:06 AM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&11:06 AM      Error      1057      To More Specific Class in SmartPalette.lvlib:GetGObjectDetails.vi->SmartPalette.lvlib:Get Selected Nodes.vi->SmartPalette.lvlib:MonitoringVI.vi
+3/15/2016&11:07 AM      Error      1055      Property Node in SmartPalette.lvlib:Read VI For Changes.vi->SmartPalette.lvlib:MonitoringVI.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&11:09 AM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&11:09 AM      Error      1054      New VI Object in Create New Node.vi->AddNextNode.vi->SmartPalette.lvlib:Palette.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&11:13 AM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&11:13 AM      Error      1054      New VI Object in Create New Node.vi->AddNextNode.vi->SmartPalette.lvlib:Palette.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&1:07 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&1:10 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&1:10 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&2:18 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:00 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:01 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:02 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:03 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:03 PM      Error      1055      Property Node in SmartPalette.lvlib:Read VI For Changes.vi->SmartPalette.lvlib:MonitoringVI.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:05 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:06 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:09 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:11 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:16 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:17 PM      Error      1054      New VI Object in Create New Node.vi->AddNextNode.vi->SmartPalette.lvlib:Palette.vi
+3/15/2016&3:17 PM      Error      1054      New VI Object in Create New Node.vi->AddNextNode.vi->SmartPalette.lvlib:Palette.vi
+3/15/2016&3:17 PM      Error      1054      New VI Object in Create New Node.vi->AddNextNode.vi->SmartPalette.lvlib:Palette.vi
+3/15/2016&3:17 PM      Error      1055      Property Node in SmartPalette.lvlib:Read VI For Changes.vi->SmartPalette.lvlib:MonitoringVI.vi
+3/15/2016&3:17 PM      Error      1055      Property Node in SmartPalette.lvlib:Read VI For Changes.vi->SmartPalette.lvlib:MonitoringVI.vi
+3/15/2016&3:17 PM      Error      1055      Property Node in SmartPalette.lvlib:Read VI For Changes.vi->SmartPalette.lvlib:MonitoringVI.vi
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:18 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:19 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:24 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:28 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:33 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/15/2016&3:43 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
