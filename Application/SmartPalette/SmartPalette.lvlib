@@ -21,6 +21,7 @@
 	<Item Name="SubVI" Type="Folder">
 		<Item Name="Add To Fixed Size Array.vi" Type="VI" URL="../SubVI/Add To Fixed Size Array.vi"/>
 		<Item Name="Bring To Cursor.vi" Type="VI" URL="../SubVI/Bring To Cursor.vi"/>
+		<Item Name="Calculate Values Of ScrollBar.vi" Type="VI" URL="../SubVI/Calculate Values Of ScrollBar.vi"/>
 		<Item Name="Check VI condition.vi" Type="VI" URL="../SubVI/Check VI condition.vi"/>
 		<Item Name="Convert To Palette Data.vi" Type="VI" URL="../SubVI/Convert To Palette Data.vi"/>
 		<Item Name="Draw Palette.vi" Type="VI" URL="../SubVI/Draw Palette.vi"/>
