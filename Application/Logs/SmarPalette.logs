@@ -5642,3 +5642,12 @@ Property Name: <b>Front Panel Window:State</b>
 
 -------------------------------------------------------------------------------------------
 Date&Time    Message     Code     Source
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
+3/17/2016&6:06 PM      Error      1149      Property Node (arg 1) in SmartPalette.lvlib:MonitoringVI.vi
+<APPEND>
+Property Name: <b>Front Panel Window:State</b>
+
+-------------------------------------------------------------------------------------------
+Date&Time    Message     Code     Source
