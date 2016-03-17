@@ -109,6 +109,7 @@
 			<Item Name="Connect Valid Terminals.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Connect Valid Terminals.vi"/>
 			<Item Name="Connector Pane Position.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Connector Pane Position.ctl"/>
 			<Item Name="Create New Node.vi" Type="VI" URL="../../Usables/Create Next Node/SubVIs/Create New Node.vi"/>
+			<Item Name="Display Help Content.vi" Type="VI" URL="../SubVI/Display Help Content.vi"/>
 			<Item Name="Find Top and Error Terminals.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Find Top and Error Terminals.vi"/>
 			<Item Name="Get Wirable Objects from Selection.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Get Wirable Objects from Selection.vi"/>
 			<Item Name="Group Selection List By Row.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/_WireMultipleSupport/Group Selection List By Row.vi"/>
